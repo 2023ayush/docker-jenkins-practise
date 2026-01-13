@@ -41,3 +41,10 @@ docker run -p 8081:8080 docker-practise:1.0
 
 5.Test the API:
 http://localhost:8081/docker
+
+Project Structure
+src/                # Java source code
+Dockerfile          # Docker configuration
+pom.xml             # Maven project configuration
+mvnw, mvnw.cmd      # Maven wrapper
+
